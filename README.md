@@ -1,7 +1,7 @@
-# Number Wars
+# 15 Puzzler
 
 
-Technical Support
+Technical Support for 15 puzzler
 
 Dear users, Hello:
 
@@ -9,7 +9,7 @@ We understand the importance of privacy to you and will do our best to protect y
 
 If you have any questions, please leave a message below or contact us as below.
 
-Contact: numberwarsWE@gmail.com
+Contact: WE15Puzzler@gmail.com
 
 
 Privacy Policy
