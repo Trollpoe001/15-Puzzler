@@ -1,7 +1,7 @@
-# 15 Puzzler
+# RGBSnake
 
 
-Technical Support for 15 puzzler
+Technical Support for RGB Snake
 
 Dear users, Hello:
 
@@ -9,7 +9,7 @@ We understand the importance of privacy to you and will do our best to protect y
 
 If you have any questions, please leave a message below or contact us as below.
 
-Contact: WE15Puzzler@gmail.com
+Contact: RGBSnakeVO@gmail.com
 
 
 Privacy Policy
